@@ -1,0 +1,1008 @@
+{
+    "brand": [
+        {
+            "id": 1,
+            "name": "Creek"
+        },
+        {
+            "id": 2,
+            "name": "Exposure"
+        },
+        {
+            "id": 3,
+            "name": "Parasound"
+        },
+        {
+            "id": 4,
+            "name": "Manley"
+        },
+        {
+            "id": 5,
+            "name": "Pro-ject"
+        },
+        {
+            "id": 6,
+            "name": "Boesendorfer"
+        },
+        {
+            "id": 7,
+            "name": "Epos"
+        },
+        {
+            "id": 8,
+            "name": "Harbeth"
+        },
+        {
+            "id": 9,
+            "name": "Jolida"
+        }
+    ],
+    "video": {
+        "url": "http://localhost:4000/hifi_video.mp4"
+    },
+    "categories": [
+        {
+            "id": 10,
+            "name": "cd_player",
+            "products": [
+                {
+                    "name": "Creek Classic",
+                    "id": 11,
+                    "brandID": 1,
+                    "price": 999,
+                    "description": "The MM7025 is this year's ideal two-channel main amplifier with a whopping 140W rms into 8 ohms per channel. Use it in an AV setup to give your front channels an earth-moving boost or simply to make a sensational upgrade to an existing stereo system. And, because the technology is the same as that in the MM7055 and MM8003 using them in combination is fast, efficient and friendly. It's a great flexible customisation enabler. And, as with the big brother MM7055, it also includes a new stylish display, XLR inputs, DC triggers and Marantz bus.",
+                    "image": {
+                        "url": "http://localhost:4000/cd_player/creek_classic.jpg"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 140 W / 170 W (6)",
+                        "frequency": "8 Hz-100 kHz (+-3 dB)",
+                        "distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver",
+                            "Brown"
+                        ],
+                        "watt": 220,
+                        "standby_watt": 0.4,
+                        "dimensions": "440 x 126 x 352",
+                        "weight": 10.5
+                    }
+                },
+                {
+                    "name": "Creek Destiny",
+                    "id": 12,
+                    "brandID": 1,
+                    "price": 549,
+                    "description": "The latest addition to the new Marantz MusicLink series is the HD-CD1, a high-quality CD player in the same compact form as the HD-AMP1 amplifier, for which it is the perfect match. Combining more than 30 years of Marantz expertise in compact disc playback with the latest developments in digital audio technology, it's ideal for use as a CD transport when used with the HD-AMP1, or as a CD player in any situation where a compact form-factor is required without any compromise on sound quality. Small it may be, but it makes use of state-of-the-art Marantz technology carried over from our Award-winning CD players, including a high-resolution 192kHz/24-bit digital-to-analogue converter from Cirrus Logic, a high-accuracy system clock, and the famous Marantz HDAM-SA2 amplifier modules, as found in our flagship Reference Series CD players and amplifiers. Selected components are also used throughout the audio signal path, for the very best reproduction of your music. A centralised CD mechanism, able to play MP3, WMA and AAC files as well as standard CDs, is also used for ultra-accurate disc-reading and, along with its analogue audio outputs, optical and coaxial digital connections are provided, allowing the HD-CD1 to be connected directly to the HD-AMP1's ultra-high-quality digital-to-analogue conversion. The HD-CD1 also features the stylish MusicLink design, with a solid aluminium front panel, double-layer chassis for vibration isolation, and retro-style side panels, and also includes a high-quality integral headphone amplifier with adjustable gain to drive high-end headphones for personal listening and comes complete with a remote control for all its functions, also able to 'drive' a complete system of HD-CD1 and HD-AMP1. It's a superb Marantz CD player - in miniature!",
+                    "image": {
+                        "url": "http://localhost:4000/cd_player/creek_destiny.jpg"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 140 W / 170 W (6)",
+                        "frequency": "8 Hz-100 kHz (+-3 dB)",
+                        "distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "White",
+                            "Blue"
+                        ],
+                        "watt": 180,
+                        "standby_watt": 0.5,
+                        "dimensions": "340 x 226 x 452",
+                        "weight": "10.5kg"
+                    }
+                },
+                {
+                    "name": "Creek Evo",
+                    "id": 13,
+                    "brandID": 1,
+                    "price": 549,
+                    "description": "Creek Evo was in at the start of CD, launching its first player — the original CD-63 — in 1982. In the following years, Marantz became well known as the CD-Player specialist. Drawing on the development process for the flagship SA-10, and designed by the same team, the SA-12 Special Edition was created to celebrate the love of music and exalt the mastery and emotion of music. Marantz Musical Mastering technology defines new standards in the digital and analogue audio processing. A disc mechanism built purely for audio, the “SACDM-3” is able to play SACDs, CDs, and compilations on CD-ROM or DVD-ROM. It also has an asynchronous USB input, able to handle formats all the way up to PCM/DXD 384kHz/32bit and DSD11.2MHz. The Marantz Musical Mastering Stream transforms all PCM file formats to DSD format, using advanced filtering and proprietary processing before the Marantz Musical Mastering Conversion converts the 1-bit data stream directly into an analogue signal without the use of a conventional D/A converter. The Marantz engineering team created this player to deliver the kind of sound able to bring you closer than ever to your favourite music. The reason is simple, and central to everything Marantz does — because music matters.",
+                    "image": {
+                        "url": "http://localhost:4000/cd_player/creek_evo.jpg"
+                    },
+                    "specifications": {
+                        "power": "(10 / 3 Ohm RMS): 100 W / 150 W",
+                        "frequency": "5 Hz-150 kHz (+-3 dB)",
+                        "distortion": "0.01% (10 Hz - 15 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver",
+                            "Violet"
+                        ],
+                        "watt": 210,
+                        "standby_watt": 0.2,
+                        "dimensions": "240 x 326 x 552",
+                        "weight": "12kg"
+                    }
+                },
+                {
+                    "name": "Exposure 32d",
+                    "id": 14,
+                    "brandID": 2,
+                    "price": 2520,
+                    "description": "The Exposure 32d is a complete digital music media source, providing CD disc, stored and streamed music file playback, along with wired and wireless connectivity and control capabilities.",
+                    "image": {
+                        "url": "http://localhost:4000/cd_player/exposure_2010S.jpg"
+                    },
+                    "specifications:": {
+                        "power": "(12 / 6 Ohm RMS): 100 W / 110 W",
+                        "frequency": "3 Hz-140 kHz (+-3 dB)",
+                        "distortion": "0.02% (5 Hz - 10 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Green",
+                            "Orange"
+                        ],
+                        "watt": 250,
+                        "standby_watt": 0.4,
+                        "dimensions": "440 x 126 x 352",
+                        "weight": "13kg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "dvd_player",
+            "products": [
+                {
+                    "brandID": 1,
+                    "id": 16,
+                    "name": "Creek Classic",
+                    "price": 679,
+                    "description": "The Creek Classic is a 2-channel DVD player that connects easily and simply with HDMI or Scart and has easy operation directly on the front as well as a user-friendly remote control.",
+                    "images": {
+                        "url": "http://localhost:4000/dvd_player/creek_classic.jpg"
+                    },
+                    "connections": {
+                        "channels": 2,
+                        "connection": "HDMI, Scart",
+                        "audio": "MP-3, JPEG,WMA, DivX and Kodak Picture CD playback"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver"
+                        ],
+                        "dimensions": "225 x 215 x 40 mm",
+                        "weight": "1.5kg",
+                        "output": "25db"
+                    }
+                },
+                {
+                    "brandID": 2,
+                    "id": 17,
+                    "name": "exposure 2010S",
+                    "price": 3450,
+                    "description": "The Exposure 2010S2 CD Player features a single PCM 1716 24 bit DAC fitted to provide very high resolution",
+                    "images": {
+                        "url": "http://localhost:4000/dvd_player/exposure_2010S.jpg"
+                    },
+                    "connections": {
+                        "channels": 2,
+                        "connection": "HDMI, Scart",
+                        "audio": "MP-3, JPEG,WMA, DivX and Kodak Picture CD playback"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver",
+                            "White"
+                        ],
+                        "dimensions": "250 x 200 x 35 mm",
+                        "weight": "2kg",
+                        "output": "30db"
+                    }
+                },
+                {
+                    "brandID": 3,
+                    "id": 18,
+                    "name": "Parasound D200",
+                    "price": 1689,
+                    "description": "Player D200 - a fresh 'neoclassical' interpretation of traditional Parasound electronics engineering solutions. The design is in the style of professional audio - tough, laconic, no frills (by the way, using special mounting whales this player can be mounted in a standard rack).",
+                    "images": {
+                        "url": "http://localhost:4000/dvd_player/parasound_d200.jpg"
+                    },
+                    "connections": {
+                        "channels": 2,
+                        "connection": "HDMI, Scart",
+                        "audio": "MP-3, JPEG,WMA, DivX and Kodak Picture CD playback"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver",
+                            "Brown"
+                        ],
+                        "dimensions": "205 x 245 x 50 mm",
+                        "weight": "1.1kg",
+                        "output": "35db"
+                    }
+                },
+                {
+                    "brandID": 2,
+                    "id": 19,
+                    "name": "Exposure 2010S",
+                    "price": 479,
+                    "description": "The Exposure 2010S2 CD Player features a single PCM 1716 24 bit DAC fitted to provide very high resolution",
+                    "images": {
+                        "url": "http://localhost:4000/dvd_player/parasound_d200.jpg"
+                    },
+                    "connections": {
+                        "channels": 2,
+                        "connection": "HDMI, Scart",
+                        "audio": "MP-3, JPEG,WMA, DivX and Kodak Picture CD playback"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver",
+                            "Orange"
+                        ],
+                        "dimensions": "275 x 260 x 55 mm",
+                        "weight": "4.5kg",
+                        "output": "50db"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "power_amplifier",
+            "products": [
+                {
+                    "id": 20,
+                    "brandId": 4,
+                    "name": "manley MM7025 2 channel Power Amplifier",
+                    "price": 999,
+                    "description": "The MM7025 is this year's ideal two-channel main amplifier with a whopping 140W rms into 8 ohms per channel. Use it in an AV setup to give your front channels an earth-moving boost or simply to make a sensational upgrade to an existing stereo system. And, because the technology is the same as that in the MM7055 and MM8003 using them in combination is fast, efficient and friendly. It's a great flexible customisation enabler. And, as with the big brother MM7055, it also includes a new stylish display, XLR inputs, DC triggers and Marantz bus.",
+                    "images": {
+                        "url": "http://localhost:4000/power_amp/manley_mahi.jpg"
+                    },
+                    "features": {
+                        "Channels": 2,
+                        "Power Transformer": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 210 W / 260 W (6)",
+                        "Frequency Response": "8 Hz-100 kHz (+-3 dB)",
+                        "Total Harmonic Distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "6.3kg",
+                        "output": "47db"
+                    }
+                },
+                {
+                    "id": 21,
+                    "brandId": 4,
+                    "name": "manley A2005 Rack-Mount 5 Channel Power Amplifier",
+                    "price": 7800,
+                    "description": "The A2005 is the five-channel home theater amplifier in the Acurus A2000 series. The A2005 is perfect for an entry-level home cinema surround setup. It carries 200W to each channel, all channels driven, promising wide frequency range with no drop-outs. Solid American engineering and construction guarantee long life and long performance of these phenomenal Class A/B amps.",
+                    "images": {
+                        "url": "http://localhost:4000/power_amp/manley_neo.jpg"
+                    },
+                    "features": {
+                        "Channels": 2,
+                        "Power Transformer": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 210 W / 260 W (6)",
+                        "Frequency Response": "8 Hz-100 kHz (+-3 dB)",
+                        "Total Harmonic Distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "6.3kg",
+                        "output": "47db"
+                    }
+                },
+                {
+                    "id": 22,
+                    "brandId": 6,
+                    "name": "Boesendorfer Relentless Monoblock Amplifier",
+                    "price": 250,
+                    "description": "Boesendorfer has always had a relentless desire to better his own creations, no matter how flawless they may seem. The Relentless Monoblock amplifier is the latest manifestation of that passion, the result of Dan's desire for an amplifier that maintains its harmonic integrity and expansive soundstage from 0 watts to 1,500 watts. An amplifier so powerful it can drive any speaker to its best possible performance, no matter how demanding the load it may present.",
+                    "images": {
+                        "url": "http://localhost:4000/power_amp/manley_snapper.jpg"
+                    },
+                    "features": {
+                        "Channels": 2,
+                        "Power Transformer": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 210 W / 260 W (6)",
+                        "Frequency Response": "8 Hz-100 kHz (+-3 dB)",
+                        "Total Harmonic Distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver",
+                            "Violet"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "6kg",
+                        "output": "52db"
+                    }
+                },
+                {
+                    "id": 23,
+                    "brandId": 7,
+                    "name": "Epos 150 SE Power Amplifier",
+                    "price": 13998,
+                    "description": "Simply put, the REF150 SE is a breakthrough in stereo power amplification.  Replacing the REF150—which was one of the most respected modern stereo amplifiers—was a daunting task, but it has been accomplished.  The REF150 SE offers more power, greater dynamic thrust, a more vivid and resolved presentation, greater finesse, and quieter operation.",
+                    "images": {
+                        "url": "http://localhost:4000/power_amp/parasound_halo.jpg"
+                    },
+                    "features": {
+                        "Channels": 2,
+                        "Power Transformer": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 260 W / 290 W (6)",
+                        "Frequency Response": "8 Hz-100 kHz (+-3 dB)",
+                        "Total Harmonic Distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Blue",
+                            "Green"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "6.3kg",
+                        "output": "47db"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "pre_amplifier",
+            "products": [
+                {
+                    "id": 24,
+                    "name": "creek",
+                    "brandID": 1,
+                    "price": 2900,
+                    "description": "Primare PRE35 Prisma is a fully balanced pre amplifier with a modular design that can be ordered with advanced DAC and Prisma streaming network modules.",
+                    "images": {
+                        "url": "http://localhost:4000/pre_amp/creek_obh.jpg"
+                    },
+                    "features": {
+                        "channels": 2,
+                        "power": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 260 W / 290 W (6)",
+                        "frequency": "8 Hz-100 kHz (+-3 dB)",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Blue",
+                            "Green"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "6.3kg",
+                        "output": "47db"
+                    }
+                },
+                {
+                    "id": 25,
+                    "name": "Parasound Classic",
+                    "brandID": 3,
+                    "price": 3999,
+                    "description": "The M8s is a pre-amplifier without limits. From its performance to its connectivity, via quality fit and finish, the M8s makes a superlative centrepiece for almost any system.",
+                    "images": {
+                        "url": "http://localhost:4000/pre_amp/parasound_classic.jpg"
+                    },
+                    "features": {
+                        "channels": 4,
+                        "power": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 230 W / 250 W (6)",
+                        "frequency": "8 Hz-100 kHz (+-3 dB)",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Silver"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "8kg",
+                        "output": "85db"
+                    }
+                },
+                {
+                    "id": 26,
+                    "name": "Parasound Halo",
+                    "brandID": 3,
+                    "price": 6000,
+                    "description": "Built from the ground up, the UTLIMA PRE 3 takes advantage of the very latest developments in advanced low-distortion power supplies. These advanced devices offer exceptionally low noise and outstanding amplifier operation. Coupled with our latest design developments, the PRE 3 offers new levels of preamplifier performance.",
+                    "images": {
+                        "url": "http://localhost:4000/pre_amp/parasound_halo.jpg"
+                    },
+                    "features": {
+                        "channels": 6,
+                        "power": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 202 W / 274 W (6)",
+                        "frequency": "8 Hz-100 kHz (+-3 dB)",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "Brown"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "7.2kg",
+                        "output": "43db"
+                    }
+                },
+                {
+                    "id": 27,
+                    "name": "Pro-ject X",
+                    "brandID": 5,
+                    "price": 6000,
+                    "description": "Built from the ground up, the UTLIMA PRE 3 takes advantage of the very latest developments in advanced low-distortion power supplies. These advanced devices offer exceptionally low noise and outstanding amplifier operation. Coupled with our latest design developments, the PRE 3 offers new levels of preamplifier performance.",
+                    "images": {
+                        "url": "http://localhost:4000/pre_amp/project_prebox.jpg"
+                    },
+                    "features": {
+                        "channels": 2,
+                        "power": "El"
+                    },
+                    "specifications:": {
+                        "power": "(8 / 4 Ohm RMS): 215 W / 245 W (6)",
+                        "frequency": "8 Hz-100 kHz (+-3 dB)",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black"
+                        ],
+                        "dimensions": "365 x 345 x 12 mm",
+                        "weight": "4.5kg",
+                        "output": "39db"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "speaker",
+            "products": [
+                {
+                    "id": 28,
+                    "brandId": 8,
+                    "name": "harbeth h",
+                    "price": 240,
+                    "description": "The Ci160CSds is a high-fidelity flush-mount dual stereo speaker that is ideal for locations with room for only one speaker.",
+                    "images": {
+                        "url": "http://localhost:4000/speakers/herbeth_h.jpg"
+                    },
+                    "specifications:": {
+                        "frequency": "50Hz - 20kHz (±6dB) open backed",
+                        "crossover": "3.2kHz",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)",
+                        "sensitivity": "91dB"
+                    },
+                    "general": {
+                        "colors": [
+                            "White"
+                        ],
+                        "dimensions": "222 x 333 x 444 mm",
+                        "weight": "1.8kg"
+                    }
+                },
+                {
+                    "id": 30,
+                    "brandId": 8,
+                    "name": "harbeth",
+                    "price": 250,
+                    "description": "From the inside out, the M-1 was conceived as a unified system. Its design has evolved in a totally integrated way, from the custom-made crossover to the two-piece clamshell cabinet. Now, following a complete technological overhaul, including all-new drive units designed in-house, it sounds better than ever. Dispersion has increased. Imaging is pin-point accurate. Performance is now full range. ",
+                    "images": {
+                        "url": "http://localhost:4000/speakers/harbeth_monitor30.jpg"
+                    },
+                    "specifications:": {
+                        "frequency": "50Hz - 20kHz (±6dB) open backed",
+                        "crossover": "3.2kHz",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)",
+                        "sensitivity": "85dB"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black"
+                        ],
+                        "dimensions": "254 x 334 x 465 mm",
+                        "weight": "2.2kg"
+                    }
+                },
+                {
+                    "id": 31,
+                    "brandId": 7,
+                    "name": "epos Motion AFX Atmos Speakers",
+                    "price": 495,
+                    "description": "Dolby Atmos enabled height effects speakerswith 0.75-inch aluminum dome tweeter and 5.25” polypropylene cone bass/midrange driver with stamped steel basket, all incorporated into a beautiful High Gloss Black cabinet that is voice-matched with MartinLogan Motion speakers.",
+                    "images": {
+                        "url": "http://localhost:4000/speakers/epos_m5.gif"
+                    },
+                    "specifications:": {
+                        "frequency": "50Hz - 20kHz (±6dB) open backed",
+                        "crossover": "3.2kHz",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)",
+                        "sensitivity": "65dB"
+                    },
+                    "general": {
+                        "colors": [
+                            "White"
+                        ],
+                        "dimensions": "205 x 245 x 320 mm",
+                        "weight": "2.4kg"
+                    }
+                },
+                {
+                    "id": 32,
+                    "brandId": 7,
+                    "name": "epos Centre Speaker",
+                    "price": 499,
+                    "description": "The HTM6 S2 Anniversary Edition small enough to fit in to convenient spaces in your home but powerful enough to partner the floorstanding 603 S2 Anniversary Edition.  Offered in three finishes, it features the same crossover improvements as the others speakers in the range.",
+                    "images": {
+                        "url": "http://localhost:4000/speakers/harbeth_p3.jpg"
+                    },
+                    "specifications:": {
+                        "frequency": "50Hz - 20kHz (±6dB) open backed",
+                        "crossover": "3.2kHz",
+                        "harmonic_distortion": "0.03% (20 Hz - 20 kHz)",
+                        "sensitivity": "87dB"
+                    },
+                    "general": {
+                        "colors": [
+                            "Silver",
+                            "Black"
+                        ],
+                        "dimensions": "205 x 260 x 235 mm",
+                        "weight": "2.3kg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "int_amplifier",
+            "products": [
+                {
+                    "id": 33,
+                    "brandID": 1,
+                    "name": "creek a50I",
+                    "price": 9999,
+                    "description": "The A50i/A50iR integrated amplifiers are the successors to the highly revered 4330SE. Many would have thought it was hard to improve on the predecessor to the A50i, but improve we have! At first glance the new 50 series looks very different - indeed the sleek styling of these new Creek integrated amps make the A50i range highly desirable.",
+                    "images": {
+                        "url": "http://localhost:4000/int_amp/creek_a50i.jpg"
+                    },
+                    "connections": {
+                        "power": "50W into 8 Ohms",
+                        "inputs": "Stereo L/R RCA"
+                    },
+                    "general": {
+                        "colors": [
+                            "Silver"
+                        ],
+                        "dimensions": "430 x 65 x 250",
+                        "weight": "6.4kg"
+                    }
+                },
+                {
+                    "id": 33,
+                    "brandID": 1,
+                    "name": "creek classic 5350 SE",
+                    "price": 9999,
+                    "description": "Creek Audio founder/designer/co-owner Michael Creek is a quiet, friendly, unassuming man. Unlike some ego-driven electronics designers who tout their products very loudly from their pulpits, Michael Creek has been quietly designing high-quality, musical, and affordable integrated amps in black-metal boxes for nearly 20 years.",
+                    "images": {
+                        "url": "http://localhost:4000/int_amp/creek_classic.jpg"
+                    },
+                    "connections": {
+                        "power": "65W into 10 Ohms",
+                        "inputs": "Stereo L/R RCA"
+                    },
+                    "general": {
+                        "colors": [
+                            "Silver",
+                            "Black"
+                        ],
+                        "dimensions": "440 x 100 x 240",
+                        "weight": "4kg"
+                    }
+                },
+                {
+                    "id": 34,
+                    "brandID": 1,
+                    "name": "creek a50I",
+                    "price": 18899,
+                    "description": "Creek is one of those really English audio brands. One with a history and a reputation for good quality. It's a brand where you know what to expect, and never really be disappointed. And Creek products have always been affordable. Their little passive preamps are well known for being excellent value, for example. In recent years Creek have added a new, more upmarket line: the Destiny products. Currently there's a CD player, an integrated amp and the power amp under consideration here. These products represent the best Creek has to offer and have received excellent reviews everywhere.",
+                    "images": {
+                        "url": "http://localhost:4000/int_amp/creek_destiny.jpg"
+                    },
+                    "connections": {
+                        "power": "45W into 7.5 Ohms",
+                        "inputs": "Stereo L/R RCA"
+                    },
+                    "general": {
+                        "colors": [
+                            "Silver",
+                            "Black",
+                            "Brown"
+                        ],
+                        "dimensions": "330 x 32 x 300",
+                        "weight": "5.2kg"
+                    }
+                },
+                {
+                    "id": 35,
+                    "brandID": 4,
+                    "name": "manley snapper",
+                    "price": 89000,
+                    "description": "This Snapper can be driven fully balanced all the way through via the XLR inputs. If you have balanced outputs on your preamplifier, this amplifier is the first Manley design to really let you take advantage of your XLR's without additional balancing input circuitry or input transformers. Very cleverly, the unbalanced RCA's can alternatively be used in this special topology with equally impressive results.",
+                    "images": {
+                        "url": "http://localhost:4000/int_amp/manley_snapper.jpg"
+                    },
+                    "connections": {
+                        "power": "35W into 5 Ohms",
+                        "inputs": "Stereo L/R RCA"
+                    },
+                    "general": {
+                        "colors": [
+                            "Silver",
+                            "Black",
+                            "Violet"
+                        ],
+                        "dimensions": "430 x 80 x 260",
+                        "weight": "7.4kg"
+                    }
+                },
+                {
+                    "id": 36,
+                    "brandID": 4,
+                    "name": "Manley Stingray",
+                    "price": 89000,
+                    "description": "TThe STINGRAY II is the next evolution from our acclaimed Stingray Integrated Amplifier, legendary in the hifi world since it first swam from our labs in 1997. Originally conceived with particular attention paid to optimal component placement for the purity and symmetry of the signal path layout, the Stingray quickly became one of our best-selling products.",
+                    "images": {
+                        "url": "http://localhost:4000/int_amp/manley_stingray.jpg"
+                    },
+                    "connections": {
+                        "power": "100W into 20 Ohms",
+                        "inputs": "Stereo L/R RCA"
+                    },
+                    "general": {
+                        "colors": [
+                            "Blue",
+                            "Green",
+                            "Violet",
+                            "White"
+                        ],
+                        "dimensions": "450 x 75 x 330",
+                        "weight": "15kg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "record_player",
+            "products": [
+                {
+                    "id": 38,
+                    "brandId": 5,
+                    "name": "Pro-ject_Debut_3_bl",
+                    "price": 1795,
+                    "description": "The award-winning Pro-Ject Debut III turntable makes playing vinyl LPs easy and fun, and at this special price, an irresistible pleasure. The Debut III delivers rich, organic and inviting analog sound at levels unmatched for its price. A perfect introduction to the warm, involving and detailed sound techniques that LPs provide, it's your ticket to constant musical satisfaction.",
+                    "images": {
+                        "url": "http://localhost:4000/record_player/pro_ject_debut_3_blue.jpg"
+                    },
+                    "connections": {
+                        "speed": "33, 45",
+                        "pickup": "Ortofon OM 5E",
+                        "stn": "-65dB"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "White",
+                            "Yellow",
+                            "Blue"
+                        ],
+                        "dimensions": "14.5 16 1/3 15 mm",
+                        "weight": "12kg",
+                        "Remote": "Yes",
+                        "RIAA_amplifier": "Yes"
+                    }
+                },
+                {
+                    "id": 39,
+                    "brandId": 5,
+                    "name": "Pro-Ject Rpm 5",
+                    "price": 1795,
+                    "description": "The award-winning Pro-Ject Debut III turntable makes playing vinyl LPs easy and fun, and at this special price, an irresistible pleasure. The Debut III delivers rich, organic and inviting analog sound at levels unmatched for its price. A perfect introduction to the warm, involving and detailed sound techniques that LPs provide, it's your ticket to constant musical satisfaction.",
+                    "images": {
+                        "url": "http://localhost:4000/record_player/pro_ject_rpm.jpg"
+                    },
+                    "connections": {
+                        "speed": "33, 45",
+                        "pickup": "Ortofon OM 5E",
+                        "stn": "-65dB"
+                    },
+                    "general": {
+                        "colors": [
+                            "Black",
+                            "White",
+                            "Yellow",
+                            "Blue"
+                        ],
+                        "dimensions": "14.5 16 1/3 15 mm",
+                        "weight": "12kg",
+                        "Remote": "Yes",
+                        "RIAA_amplifier": "Yes"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "tube_amplifer",
+            "products": [
+                {
+                    "id": 41,
+                    "name": "Jolida",
+                    "brandID": 9,
+                    "price": 9998,
+                    "description": "The new VT80 is the much-anticipated amplifier that finally allows the Foundation series to be shown as a complete system. Combining an enticing new esthetic with worry-free operation and great audio performance, the VT80 is a vacuum-tube amplifier that will open doors to a new customer base.",
+                    "image": {
+                        "url": "http://localhost:4000/tube_amplifier/jolida_JD102b.jpg"
+                    },
+                    "features": {
+                        "bandwidth": "(-3dB points) 7Hz to 60kHz",
+                        "frequency": "(-3dB points at 1 watt) 0.7Hz to 80kHz",
+                        "input_s": "1.4V RMS BAL for rated output. (25dB Bal gain into 8 ohms.)",
+                        "input_i": "300K ohms Balanced (150K ohms SE)",
+                        "output_p": "Non-inverting. Balanced input pin 2+ (IEC-268)",
+                        "output_t": "8 ohms, 4 ohms"
+                    },
+                    "specifications": {
+                        "overall": "15dB",
+                        "slew": "10 volts/microsecond",
+                        "rise": "4.0 microseconds",
+                        "channel": "112db"
+                    },
+                    "general": {
+                        "width": "48.3 cm",
+                        "height": "26.2 cm",
+                        "depth": "46.8 cm to chassis , 49.3 cm to terminals",
+                        "weight": "20.7 kg"
+                    }
+                },
+                {
+                    "id": 42,
+                    "name": "Jolida",
+                    "brandID": 9,
+                    "price": 599,
+                    "description": "Do you have some classic rock albums you used to love so much that have now ended up left on the shelf, un-played for years? How about jazz or classical recordings from the 60's? Every audiophile has albums that they used to play, but stopped because they are harsh, brittle, or bright. There is a solution.",
+                    "image": {
+                        "url": "http://localhost:4000/tube_amplifier/jolida_JD202a.jpg"
+                    },
+                    "features": {
+                        "bandwidth": "(-3dB points) 3Hz to 50kHz",
+                        "frequency": "(-3dB points at 2 watt) 2.7Hz to 90kHz",
+                        "input_s": "2V RMS BAL for rated output. (42dB Bal gain into 12 ohms.)",
+                        "input_i": "200K ohms Balanced (250K ohms SE)",
+                        "output_p": "Non-inverting. Balanced input pin 2+ (IEC-268)",
+                        "output_t": "9 ohms, 5 ohms"
+                    },
+                    "specifications": {
+                        "overall": "15db",
+                        "slew": "11 volts/microsecond",
+                        "rise": "4.5 microseconds",
+                        "channel": "123dB"
+                    },
+                    "general": {
+                        "width": "50.3 cm",
+                        "height": "22.2 cm",
+                        "depth": "41.8 cm to chassis , 43.3 cm to terminals",
+                        "weight": "14.7 kg"
+                    }
+                },
+                {
+                    "id": 43,
+                    "name": "Jolida",
+                    "brandID": 9,
+                    "price": 799,
+                    "description": "Hand-made construction of a heavy-gauge, fully-vented steel chassis with a five coat finish, each coat hand-rubbed and polished, holding the finest point-to-point wiring, using workmanship that is normally only available at the highest price.",
+                    "image": {
+                        "url": "http://localhost:4000/tube_amplifier/jolida_JD300b.jpg"
+                    },
+                    "features": {
+                        "bandwidth": "(-1dB points) 9Hz to 50kHz",
+                        "frequency": "(-1dB points at 5 watt) 5.2Hz to 110kHz",
+                        "input_s": "1.1V RMS BAL for rated output. (20dB Bal gain into 5 ohms.)",
+                        "input_i": "100K ohms Balanced (140K ohms SE)",
+                        "output_p": "inverting. Balanced input pin 2+ (IEC-268)",
+                        "output_t": "1 ohms, 1 ohms"
+                    },
+                    "specifications": {
+                        "overall": "25dB",
+                        "slew": "20 volts/microsecond",
+                        "rise": "7.0 microseconds",
+                        "channel": "150dB"
+                    },
+                    "general": {
+                        "width": "45.8 cm",
+                        "height": "23.6 cm",
+                        "depth": "53.4 cm to chassis , 60.2 cm to terminals",
+                        "weight": "7.5 kg"
+                    }
+                },
+                {
+                    "id": 44,
+                    "name": "Jolida",
+                    "brandID": 9,
+                    "price": 8899,
+                    "description": "Do you have some classic rock albums you used to love so much that have now ended up left on the shelf, un-played for years? How about jazz or classical recordings from the 60's? Every audiophile has albums that they used to play, but stopped because they are harsh, brittle, or bright. There is a solution.",
+                    "image": {
+                        "url": "http://localhost:4000/tube_amplifier/jolida_JD302b.jpg"
+                    },
+                    "features": {
+                        "bandwidth": "(-10dB points) 20Hz to 222kHz",
+                        "frequency": "(-10dB points at 20 watt) 52Hz to 556kHz",
+                        "input_s": "13.4V RMS BAL for rated output. (85dB Bal gain into 26 ohms.)",
+                        "input_i": "888K ohms Balanced (999K ohms SE)",
+                        "output_p": "Non-inverting. Balanced input pin 10+ (IEC-268)",
+                        "output_t": "28 ohms, 14 ohms"
+                    },
+                    "specifications": {
+                        "overall": "89dB",
+                        "slew": "56 volts/microsecond",
+                        "rise": "0.01 microseconds",
+                        "channel": "352dB"
+                    },
+                    "general": {
+                        "width": "116 cm",
+                        "height": "50 cm",
+                        "depth": "202 cm to chassis , 212 cm to terminals",
+                        "weight": "89.9 kg"
+                    }
+                }
+            ]
+        }
+    ],
+    "about": [
+        {
+            "id": 45,
+            "title": "history",
+            "img": "http://5.56.146.71:4000/about_page/history.png",
+            "subtitle": "Established in the late 1960s, our family owned business is based in Edinburgh and Falkirk, but services customers across the UK. ",
+            "paragraphs": {
+                "p1": "Our Edinburgh branch has the longest history as an audio retailer in the UK. During recent renovations, receipts were found from Nicolson’s Gramophone Saloon dating back to 1926. In the 1950s WG Graham took over the shop and renamed it WG Graham’s Hi-Fi Corner. Upon his retirement, Graham Tiso bought the business and shortened the name to Hi-Fi Corner.  ",
+                "p2": "Soon thereafter a young enthusiastic Colin MacKenzie (left), who was recommended by Linn’s own Ivor Tiefenbrun, was employed to manage the shop; with a knack for business and years of experience in the hi-fi industry, Colin would later become the owner of Hi-Fi Corner. Today, Struan MacKenzie carries on the legacy as the company’s Managing Director."
+            }
+        },
+        {
+            "id": 46,
+            "title": "Hear the difference",
+            "subtitle": "Book a demonstration at our Edinburgh or Falkirk showrooms.",
+            "img": "http://5.56.146.71:4000/about_page/hear_the_difference.png",
+            "paragraphs": {
+                "p1": "Would you choose a quality car without a test drive? If you are familiar with the brand and have great trust in it, you might. However, our listening preferences are unique to the individual and with many of our customers new to the world of high quality sound and vision, we encourage everyone to come in to demonstrate the products they are interested in. You’ll find a relaxing and comfortable environment in both our Edinburgh and Falkirk premises where you can decide for yourself if the kit is right for you. We also offer home demonstrations on selected products.",
+                "p2": "It's our aim to get the right product for you.",
+                "p3": "Our experts are on hand to guide you through the differences between speakers, amplifiers and sources and provide simple solutions that suit your needs."
+            }
+        },
+        {
+            "id": 47,
+            "title": "services",
+            "subtitle": "Our passion for the products we sell and, for our customers’ satisfaction simply means that we happily offer additional services not found on the high-street.",
+            "img": "http://5.56.146.71:4000/about_page/services.png",
+            "bold-text": {
+                "b1": "Home Setup",
+                "b2": "Part Exchange",
+                "b3": "Turntable Doctor",
+                "b4": "Record Cleaning Service"
+            },
+            "paragraphs": {
+                "p1": "- We want to ensure that the equipment you’ve purchased from us is installed correctly and sounds perfect; and we happily provide this service throughout the UK.",
+                "p2": "- To help you upgrade your system, we offer our part-exchange program. We can offer a set price, or sell your old kit on your behalf.",
+                "p3": "- Our turntable experts have been trained by the manufacturers for initial setup, long-term maintenance, and upgrading your high quality turntables.",
+                "p4": "- Have some old records that need a bit of love? We offer Scotland’s very own professional record cleaning service with our bespoke Pro-Ject record cleaner."
+            }
+        },
+        {
+            "id": 48,
+            "title": "Tailored For You",
+            "img": "http://5.56.146.71:4000/about_page/tailored_for_you.png",
+            "subtitle": "We look forward to customising a system to meet your needs.",
+            "paragraphs": {
+                "p1": "We don't favour one manufacturer over another - the only thing we do favour is making sure our customers get the right product that suits their needs and listening preferences. We will ask many questions in order to ensure that what you buy from us is tailored to you and you alone.",
+                "p2": "If you are looking for a product not found in our demonstration showrooms or our online site, don’t fret as we have access to hundreds of brands.",
+                "p3": "One of our biggest pleasures of working in this industry is to see the smile on our customers’ faces when they finally hear and see the system of their dreams."
+            }
+        }
+    ],
+    "faq": [
+        {
+            "id": 49,
+            "subtitle": "Here at Hi-Fi Corner, our trained product specialists aim to provide the right product for you. We take great care with all of our orders to ensure you are fully happy with the product.",
+            "txt": "We aim to resolve any problems to your satisfaction. Please contact us directly, if, for any reason, you have an issue with your order, your product or any other service provided. ",
+            "paragraphs": [
+                {
+                    "id": 50,
+                    "title": "OUR GUARANTEE",
+                    "p1": "All items excluding ex-display and secondhand goods are covered by at least 12 months warranty; this is detailed on your receipt. Any secondhand or ex-display product is covered by at least 3 months warranty as noted in the original listing.",
+                    "p2": "Hi-Fi Corner cannot guarantee against any misuse (i.e. blown speakers etc.), commercial use, wear and tear, erosion of parts, loss of data stored on any form of writeable/hard drive devices, dead pixels of an amount not covered by the manufacturer’s specifications or where you have not allowed repairs of goods to be carried out by authorised agents. If it has been more than 30 days since you have received a product and discovered a fault, we will still repair the goods free of charge or, if you prefer, replace them provided that you report the fault within 12 months of purchase. If we are unable to repair or replace the item(s) we will provide you with a full refund instead.",
+                    "p3": "Please note that if it is after the initial 30 days of purchase you must be able to certify the fault was present upon delivery and not by misuse."
+                },
+                {
+                    "id": 51,
+                    "title": "REFUNDS",
+                    "p1": "Once your returned item is received and inspected, we will send you an email or phone call to notify you that we have received your returned item.We will also notify you of the approval or rejection of your refund.",
+                    "p2": "If you are approved, then your refund will be processed, and a credit will automatically be applied to your original method of payment, within 3 working days. Please note we require an email address or contact number to arrange a refund that was purchased over the phone. There are certain situations where only partial refunds are granted or we cannot refund you; Any item not in its original condition, is damaged or missing parts for reasons not due to our error. Any damage that has been caused by misuse, such as a speaker drive unit being blown or water being introduced to the unit, or that has been damaged due to poor packing. Any item that is returned more than 30 days after delivery. In any instance, we will notify you as soon as possible to resolve this matter.",
+                    "p3": "If you haven’t received a refund after confirmation, first check your bank account again. Then contact your credit card company, it may take some time before your refund is officially posted. Next contact your bank. There is often some processing time of a couple of days before a refund is posted. If you have done all of this and you still have not received your refund after 7 days, please contact us at sales@hificorner.co.uk."
+                },
+                {
+                    "id": 52,
+                    "title": "SHIPPING",
+                    "p1": "To return your product, you should mail your product to:",
+                    "p2": "2 Joppa Road, Mackenzie House, Edinburgh, EH15 2EU.",
+                    "p3": "If you would like to return an item, please note that we cannot arrange a collection of the item without additional cost; you will be responsible for ensuring the product reaches us. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund. Depending on where you live, the time it may take for your exchanged product to reach you may vary. We will process the refund when the item arrives with us.",
+                    "p4": "If you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item."
+                },
+                {
+                    "id": 53,
+                    "title": "DELIVERY",
+                    "p1": "Please check the condition of all products delivered as soon as they are received. This does not affect your statutory rights. If there is a problem we would like to deal with this as soon as possible to alleviate any inconvenience to yourself.",
+                    "p2": "As soon as we have delivered the goods to you, you will be responsible for them and any damage occasioned whilst in your possession. The majority of goods we send will require you to sign for them upon delivery. If you are not able to sign for a delivery, we will do our utmost to contact you to arrange when it is convenient to redeliver. Our responsibility for everything other than damage due to our negligence will end at the time the carrier tried to delivery the goods to you. If your product is visibly damaged in transit, please sign for the delivery as ‘damaged’ and let us know as soon as possible."
+                },
+                {
+                    "id": 54,
+                    "title": "RETURNS PROCESS/YOUR STATUTORY RIGHTS",
+                    "p1": "If you wish to return goods purchased online or over the phone, you should notify Hi-Fi Corner of your intention to do so within 14 days of the date of receipt.",
+                    "p2": "You then have an additional 14 days to return the goods from this notification date (goods must be returned within 28 days). We will in such circumstances refund you the cost of your order, excluding postage or delivery cost. However, if goods are not returned 'as new' due to excessive handling on your part, or with components missing (including packing materials and manuals) we may make a reasonable deduction for this. Please do not send your product back to the manufacturer. We kindly ask that to make the refund process easier, that you include your receipt or proof of purchase and a cover letter detailing briefly why the item is being returned. We cannot refund the cost of delivery fees if there was an additional charge, only the cost of the goods themselves. We will process the refund when the item arrives with us. If you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item.",
+                    "p3": "Please contact us before attempting to return your goods. For purchases bought in-store, you can also drop in and be refunded instantly."
+                },
+                {
+                    "id": 55,
+                    "title": "SALE ITEMS",
+                    "p1": "Only regularly priced items may be refunded, unfortunately clearance, special order and outlet items cannot be refunded unless they are found to be faulty on arrival. For more details about returning secondhand or sale items, please contact sales@hificorner.co.uk."
+                },
+                {
+                    "id": 56,
+                    "title": "EXCHANGES",
+                    "p1": "We can only replace items if they are defective or damaged. If you need to exchange the product for the same item due to a fault, please first send us an email at sales@hificorner.co.uk and once approved, send your item to:",
+                    "p2": "Hi-Fi Corner, 2 Joppa Road, Mackenzie House, Portobello, Edinburgh, EH15 2EU.",
+                    "p3": "Please also include the proof of purchase and a cover letter detailing the reason for exchange."
+                }
+            ]
+        }
+    ]
+}
