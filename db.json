@@ -1,4 +1,10 @@
 {
+    "video": {
+
+        "url": "http://localhost:4000/hifi_video.mp4"
+
+    },
+    
     "products": [
         {
             "name": "Creek Classic",
